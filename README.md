@@ -1,4 +1,4 @@
-# whatsapp_redesign
+# whatsapp
 
 A new Flutter project.
 
